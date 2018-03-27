@@ -8,3 +8,13 @@ C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.
 C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.AssemblyInfo.cs
 C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.dll
 C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.pdb
+C:\source\codeworks\cSharp\theater2\theater\bin\Debug\netcoreapp2.0\theater.deps.json
+C:\source\codeworks\cSharp\theater2\theater\bin\Debug\netcoreapp2.0\theater.runtimeconfig.json
+C:\source\codeworks\cSharp\theater2\theater\bin\Debug\netcoreapp2.0\theater.runtimeconfig.dev.json
+C:\source\codeworks\cSharp\theater2\theater\bin\Debug\netcoreapp2.0\theater.dll
+C:\source\codeworks\cSharp\theater2\theater\bin\Debug\netcoreapp2.0\theater.pdb
+C:\source\codeworks\cSharp\theater2\theater\obj\Debug\netcoreapp2.0\theater.csproj.CoreCompileInputs.cache
+C:\source\codeworks\cSharp\theater2\theater\obj\Debug\netcoreapp2.0\theater.AssemblyInfoInputs.cache
+C:\source\codeworks\cSharp\theater2\theater\obj\Debug\netcoreapp2.0\theater.AssemblyInfo.cs
+C:\source\codeworks\cSharp\theater2\theater\obj\Debug\netcoreapp2.0\theater.dll
+C:\source\codeworks\cSharp\theater2\theater\obj\Debug\netcoreapp2.0\theater.pdb
